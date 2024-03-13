@@ -93,29 +93,47 @@ from the BioStudies reposotory
 [E-MTAB-13898](https://www.ebi.ac.uk/biostudies/arrayexpress/studies/E-MTAB-13898)
 the following files:
 
-Samples and Genes Metadata: -sampleMetadata.txt.gz
--genesMetadata.v109.feb2023.archive.tsv.gz
+Samples and Genes Metadata: 
+- sampleMetadata.txt.gz
+- genesMetadata.v109.feb2023.archive.tsv.gz
 
 CellRanger Quantification Files Per Sample:
--Sample_Aorta_9897_barcodes.tsv.gz -Sample_Aorta_9897_features.tsv.gz
--Sample_Aorta_9897_matrix.mtx.gz -Sample_Aorta_9901_barcodes.tsv.gz
--Sample_Aorta_9901_features.tsv.gz -Sample_Aorta_9901_matrix.mtx.gz
--Sample_Aorta_9909_barcodes.tsv.gz -Sample_Aorta_9909_features.tsv.gz
--Sample_Aorta_9909_matrix.mtx.gz -Sample_Aorta_9911_barcodes.tsv.gz
--Sample_Aorta_9911_features.tsv.gz -Sample_Aorta_9911_matrix.mtx.gz
--Sample_Pig1_Aorta_barcodes.tsv.gz -Sample_Pig1_Aorta_features.tsv.gz
--Sample_Pig1_Aorta_matrix.mtx.gz -Sample_Pig2_Aorta_barcodes.tsv.gz
--Sample_Pig2_Aorta_features.tsv.gz -Sample_Pig2_Aorta_matrix.mtx.gz
--Sample_Pig3_Aorta_barcodes.tsv.gz -Sample_Pig3_Aorta_features.tsv.gz
--Sample_Pig3_Aorta_matrix.mtx.gz -Sample_Pig4_Aorta_barcodes.tsv.gz
--Sample_Pig4_Aorta_features.tsv.gz -Sample_Pig4_Aorta_matrix.mtx.gz
--Sample_Pig5_Aorta_barcodes.tsv.gz -Sample_Pig5_Aorta_features.tsv.gz
--Sample_Pig5_Aorta_matrix.mtx.gz -Sample_Pig6_Aorta_barcodes.tsv.gz
--Sample_Pig6_Aorta_features.tsv.gz -Sample_Pig6_Aorta_matrix.mtx.gz
--Sample_Pig7_Aorta_barcodes.tsv.gz -Sample_Pig7_Aorta_features.tsv.gz
--Sample_Pig7_Aorta_matrix.mtx.gz
+- Sample_Aorta_9897_barcodes.tsv.gz
+- Sample_Aorta_9897_features.tsv.gz
+- Sample_Aorta_9897_matrix.mtx.gz
+- Sample_Aorta_9901_barcodes.tsv.gz
+- Sample_Aorta_9901_features.tsv.gz
+- Sample_Aorta_9901_matrix.mtx.gz
+- Sample_Aorta_9909_barcodes.tsv.gz
+- Sample_Aorta_9909_features.tsv.gz
+- Sample_Aorta_9909_matrix.mtx.gz
+- Sample_Aorta_9911_barcodes.tsv.gz
+- Sample_Aorta_9911_features.tsv.gz
+- Sample_Aorta_9911_matrix.mtx.gz
+- Sample_Pig1_Aorta_barcodes.tsv.gz
+- Sample_Pig1_Aorta_features.tsv.gz
+- Sample_Pig1_Aorta_matrix.mtx.gz
+- Sample_Pig2_Aorta_barcodes.tsv.gz
+- Sample_Pig2_Aorta_features.tsv.gz
+- Sample_Pig2_Aorta_matrix.mtx.gz
+- Sample_Pig3_Aorta_barcodes.tsv.gz
+- Sample_Pig3_Aorta_features.tsv.gz
+- Sample_Pig3_Aorta_matrix.mtx.gz
+- Sample_Pig4_Aorta_barcodes.tsv.gz
+- Sample_Pig4_Aorta_features.tsv.gz
+- Sample_Pig4_Aorta_matrix.mtx.gz
+- Sample_Pig5_Aorta_barcodes.tsv.gz
+- Sample_Pig5_Aorta_features.tsv.gz
+- Sample_Pig5_Aorta_matrix.mtx.gz
+- Sample_Pig6_Aorta_barcodes.tsv.gz
+- Sample_Pig6_Aorta_features.tsv.gz
+- Sample_Pig6_Aorta_matrix.mtx.gz
+- Sample_Pig7_Aorta_barcodes.tsv.gz
+- Sample_Pig7_Aorta_features.tsv.gz
+- Sample_Pig7_Aorta_matrix.mtx.gz
 
-Doublets Prediction File: -ConsensusDoubletFinderResults.txt.gz
+Doublets Prediction File:
+- ConsensusDoubletFinderResults.txt.gz
 
 # 4 SetUp R environment
 
